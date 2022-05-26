@@ -1,1 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2022-05-26T04:50:05.076Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" version="18.1.2" etag="YK2OG6bbTLP1vChJv1l6" type="github"><diagram id="ZGqTGLAVm2iqREafa4xl">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-26T05:26:41.922Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.61 Safari/537.36" etag="CqVKPxa4mgGsoFWPGo3c" version="18.1.2" type="github">
+  <diagram id="ZGqTGLAVm2iqREafa4xl" name="Page-1">
+    <mxGraphModel dx="2370" dy="1387" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-2" value="REVISÃO BIBLIOGRÁFICA" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#ffffff;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-3" value="PROGRAMAR O ESP" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="353" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-4" value="PROGRAMAR O APP" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="618" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-5" value="DESIGN DO PROTÓTIPO" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1693" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-6" value="TESTES COM BATERIA" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1428" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-7" value="PRODUÇÃO DO ARTIGOS" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1963" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-11" value="PROGRAMAR A API" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="888" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="r6tQH6ZEMEf1C0vlzIWA-12" value="PROGRAMAR O MATLAB" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=18;sketch=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="170" width="270" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
